@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mujtaba Rehman</h1>
-<h3 align="center">A passionate Backend .NET Engineer from Pakistan.</h3>
+<h3 align="center">A Passionate Backend .NET Engineer from Pakistan.</h3>
 
 - 💬 Ask me about **HTML5,CSS3,JavaSript,Bootstrap,.NET Core(ASP.NET,Winform),Entity Framework,Ado.NET,Laravel,Core/OOP PHP, MySQL,MSSQL, JQuery, AJAX**
 

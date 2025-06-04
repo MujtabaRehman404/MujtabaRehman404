@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mujtubasteam0333@gmail.com**
 
-- ⚡ Fun fact **I use Linux as my primary OS.**
+- ⚡ Interesting fact **I use Laravel for freelance solutions and .NET for enterprise grade solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **HTML5,CSS3,JavaSript,Bootstrap,.NET Core(ASP.NET,Winform),Entity Framework,Ado.NET,Laravel,Core/OOP PHP, MySQL,MSSQL, JQuery, AJAX**
 
-- 📫 How to reach me **mujtubasteam0333@gmail.com**
+- 📫 How to reach me **mujtabawork0333@gmail.com**
 
 - ⚡ Interesting fact **I use Laravel for freelance solutions and .NET for enterprise grade solutions.**
 
